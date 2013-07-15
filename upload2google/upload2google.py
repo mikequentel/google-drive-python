@@ -1,4 +1,4 @@
-#!/opt/PortablePython2.7.3.1/App/python
+#!/usr/bin/python
 
 import sys
 import argparse
